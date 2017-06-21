@@ -1,0 +1,12 @@
+c:\users\ilija\Desktop\Simulacija\Simulacija\bin\Debug\Simulacija.exe.config
+c:\users\ilija\Desktop\Simulacija\Simulacija\bin\Debug\Simulacija.exe
+c:\users\ilija\Desktop\Simulacija\Simulacija\bin\Debug\Simulacija.pdb
+c:\users\ilija\Desktop\Simulacija\Simulacija\obj\Debug\Simulacija.csprojResolveAssemblyReference.cache
+c:\users\ilija\Desktop\Simulacija\Simulacija\obj\Debug\Simulacija.Form1.resources
+c:\users\ilija\Desktop\Simulacija\Simulacija\obj\Debug\Simulacija.Properties.Resources.resources
+c:\users\ilija\Desktop\Simulacija\Simulacija\obj\Debug\Simulacija.csproj.GenerateResource.Cache
+c:\users\ilija\Desktop\Simulacija\Simulacija\obj\Debug\Simulacija.exe
+c:\users\ilija\Desktop\Simulacija\Simulacija\obj\Debug\Simulacija.pdb
+c:\users\ilija\Desktop\Simulacija\Simulacija\obj\Debug\Simulacija.dodajtelo.resources
+C:\Users\Ilija\Desktop\Simulacija\Simulacija\obj\Debug\Simulacija.grafik.resources
+C:\Users\Ilija\Desktop\Simulacija\Simulacija\bin\Debug\ZedGraph.dll
